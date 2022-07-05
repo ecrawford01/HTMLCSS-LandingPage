@@ -174,7 +174,7 @@ section { display: flex; }
     color: #ffffff;
 }
 .full-banner-sidebar h4 {
-    size: 40px;
+    font-size: 40px;
     font-weight: 700;
     color: #637f94;
     font-style: italic;
